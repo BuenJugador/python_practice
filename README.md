@@ -1,0 +1,1 @@
+# All Exercises were taken from the [Practice Python](https://www.practicepython.org/)
